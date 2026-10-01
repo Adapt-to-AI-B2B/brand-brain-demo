@@ -1,0 +1,7738 @@
+[
+ {
+  "id": "gid://shopify/Product/7982853619734",
+  "title": "Slides",
+  "handle": "slides",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "shoes",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Shoes"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695710371862",
+      "title": "Small",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "25.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695710404630",
+      "title": "Medium",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "25.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695710437398",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "25.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982856273942",
+  "title": "Sweatpants",
+  "handle": "sweatpants",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "bottoms",
+   "men",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Bottoms"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696926949398",
+      "title": "Small / Green",
+      "quantityAvailable": 92,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695714500630",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696926982166",
+      "title": "Small / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "42.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927014934",
+      "title": "Small / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927047702",
+      "title": "Small / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927080470",
+      "title": "Medium / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695714533398",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927113238",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "42.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927146006",
+      "title": "Medium / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927178774",
+      "title": "Medium / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927211542",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695714566166",
+      "title": "Large / Olive",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927244310",
+      "title": "Large / Ocean",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "42.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927277078",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696927309846",
+      "title": "Large / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "35.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982902771734",
+  "title": "Men's T-shirt",
+  "handle": "men-t-shirt",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "men",
+   "tops"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932126742",
+      "title": "Small / Green",
+      "quantityAvailable": 25,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695837839382",
+      "title": "Small / Olive",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932159510",
+      "title": "Small / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932192278",
+      "title": "Small / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932225046",
+      "title": "Small / Red",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932257814",
+      "title": "Medium / Green",
+      "quantityAvailable": 43,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695837872150",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932290582",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932323350",
+      "title": "Medium / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932356118",
+      "title": "Medium / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932388886",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695837904918",
+      "title": "Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932421654",
+      "title": "Large / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932454422",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932487190",
+      "title": "Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932519958",
+      "title": "X-Large / Green",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695837937686",
+      "title": "X-Large / Olive",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932552726",
+      "title": "X-Large / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932585494",
+      "title": "X-Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696932618262",
+      "title": "X-Large / Red",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904639510",
+  "title": "Hoodie",
+  "handle": "hoodie-old",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "men",
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696903847958",
+      "title": "Small / Green",
+      "quantityAvailable": 3,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846359062",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696903880726",
+      "title": "Small / Ocean",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696903913494",
+      "title": "Small / Purple",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696903946262",
+      "title": "Small / Red",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696903979030",
+      "title": "Medium / Green",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846391830",
+      "title": "Medium / Olive",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904011798",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904044566",
+      "title": "Medium / Purple",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904077334",
+      "title": "Medium / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904110102",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846424598",
+      "title": "Large / Olive",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904142870",
+      "title": "Large / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904175638",
+      "title": "Large / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904208406",
+      "title": "Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904241174",
+      "title": "X-Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846457366",
+      "title": "X-Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904273942",
+      "title": "X-Large / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904306710",
+      "title": "X-Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696904339478",
+      "title": "X-Large / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904705046",
+  "title": "Soft Cotton Hoodie in Jam",
+  "handle": "soft-cotton-hoodie-in-jam",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846621206",
+      "title": "Small",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846653974",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846686742",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846719510",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904836118",
+  "title": "Soft Cotton Hoodie in Clay",
+  "handle": "soft-cotton-hoodie-in-clay",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847145494",
+      "title": "Small",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847178262",
+      "title": "Medium",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847211030",
+      "title": "Large",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847243798",
+      "title": "X-Large",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904868886",
+  "title": "Soft Cotton Hoodie in Ocean",
+  "handle": "soft-cotton-hoodie-in-ocean",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847276566",
+      "title": "Small",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847309334",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847342102",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847374870",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904901654",
+  "title": "Soft Cotton Hoodie in Violet",
+  "handle": "soft-cotton-hoodie-in-violet",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847407638",
+      "title": "Small",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847440406",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847473174",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847505942",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982904934422",
+  "title": "Soft Cotton Hoodie in Green",
+  "handle": "soft-cotton-hoodie-in-green",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847538710",
+      "title": "Small",
+      "quantityAvailable": 42,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847571478",
+      "title": "Medium",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847604246",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847637014",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7982905098262",
+  "title": "Men's Crewneck",
+  "handle": "men-crewneck",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "men",
+   "tops"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905224214",
+      "title": "Small / Green",
+      "quantityAvailable": 36,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695848128534",
+      "title": "Small / Olive",
+      "quantityAvailable": 45,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905256982",
+      "title": "Small / Ocean",
+      "quantityAvailable": 44,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905289750",
+      "title": "Small / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905322518",
+      "title": "Small / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905355286",
+      "title": "Medium / Green",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695848161302",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905388054",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905420822",
+      "title": "Medium / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905453590",
+      "title": "Medium / Red",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905486358",
+      "title": "Large / Green",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695848194070",
+      "title": "Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905519126",
+      "title": "Large / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905551894",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696905584662",
+      "title": "Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983591030806",
+  "title": "Women's Crewneck",
+  "handle": "women-crewneck",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "women"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Women"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906207254",
+      "title": "Small / Green",
+      "quantityAvailable": 36,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906174486",
+      "title": "Small / Olive",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906240022",
+      "title": "Small / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906272790",
+      "title": "Small / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906305558",
+      "title": "Small / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906371094",
+      "title": "Medium / Green",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906338326",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906403862",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906436630",
+      "title": "Medium / Purple",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906469398",
+      "title": "Medium / Red",
+      "quantityAvailable": 44,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906534934",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906502166",
+      "title": "Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906567702",
+      "title": "Large / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906600470",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696906633238",
+      "title": "Large / Red",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "120.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983592374294",
+  "title": "Women's T-shirt",
+  "handle": "women-t-shirt",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "women"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Women"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933273622",
+      "title": "Small / Green",
+      "quantityAvailable": 36,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933240854",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933306390",
+      "title": "Small / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933339158",
+      "title": "Small / Purple",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933371926",
+      "title": "Small / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933437462",
+      "title": "Medium / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933404694",
+      "title": "Medium / Olive",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933470230",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933502998",
+      "title": "Medium / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933535766",
+      "title": "Medium / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933601302",
+      "title": "Large / Green",
+      "quantityAvailable": 44,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933568534",
+      "title": "Large / Olive",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933634070",
+      "title": "Large / Ocean",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933666838",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933699606",
+      "title": "Large / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933765142",
+      "title": "X-Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933732374",
+      "title": "X-Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933797910",
+      "title": "X-Large / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933830678",
+      "title": "X-Large / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696933863446",
+      "title": "X-Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "X-Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983593095190",
+  "title": "Canvas Sneakers",
+  "handle": "canvas-sneakers",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "men",
+   "shoes"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935272470",
+      "title": "4 / Green",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935239702",
+      "title": "4 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935305238",
+      "title": "4 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935338006",
+      "title": "4 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935370774",
+      "title": "4 / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941367318",
+      "title": "5 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941334550",
+      "title": "5 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941400086",
+      "title": "5 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941432854",
+      "title": "5 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941465622",
+      "title": "5 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941531158",
+      "title": "6 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941498390",
+      "title": "6 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941563926",
+      "title": "6 / Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941596694",
+      "title": "6 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941629462",
+      "title": "6 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941694998",
+      "title": "7 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941662230",
+      "title": "7 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941760534",
+      "title": "7 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941793302",
+      "title": "7 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941826070",
+      "title": "7 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941891606",
+      "title": "8 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941858838",
+      "title": "8 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941924374",
+      "title": "8 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941957142",
+      "title": "8 / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696941989910",
+      "title": "8 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942055446",
+      "title": "9 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942022678",
+      "title": "9 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942088214",
+      "title": "9 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942120982",
+      "title": "9 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942153750",
+      "title": "9 / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942219286",
+      "title": "10 / Green",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942186518",
+      "title": "10 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942252054",
+      "title": "10 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942284822",
+      "title": "10 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942317590",
+      "title": "10 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942383126",
+      "title": "11 / Green",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942350358",
+      "title": "11 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942415894",
+      "title": "11 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942448662",
+      "title": "11 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942481430",
+      "title": "11 / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942546966",
+      "title": "12 / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942514198",
+      "title": "12 / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942579734",
+      "title": "12 / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942612502",
+      "title": "12 / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696942645270",
+      "title": "12 / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "40.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983593357334",
+  "title": "Frontpack",
+  "handle": "frontpack",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935600150",
+      "title": "Green",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "200.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935567382",
+      "title": "Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "200.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935632918",
+      "title": "Ocean",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "200.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935665686",
+      "title": "Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "200.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935698454",
+      "title": "Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "200.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983593390102",
+  "title": "Half Zip",
+  "handle": "half-zip",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935763990",
+      "title": "Small / Green",
+      "quantityAvailable": 45,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935731222",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935796758",
+      "title": "Small / Ocean",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935829526",
+      "title": "Small / Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935862294",
+      "title": "Small / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696962961430",
+      "title": "Large / Green",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696962994198",
+      "title": "Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963026966",
+      "title": "Large / Ocean",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963059734",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963092502",
+      "title": "Large / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983593422870",
+  "title": "Leggings",
+  "handle": "leggings",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "bottoms",
+   "women"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Women"
+     }
+    },
+    {
+     "node": {
+      "title": "Bottoms"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935927830",
+      "title": "Small / Green",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935895062",
+      "title": "Small / Olive",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935960598",
+      "title": "Small / Ocean",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696935993366",
+      "title": "Small / Purple",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936026134",
+      "title": "Small / Red",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964108310",
+      "title": "Medium / Green",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964141078",
+      "title": "Medium / Olive",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964173846",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964206614",
+      "title": "Medium / Purple",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964239382",
+      "title": "Medium / Red",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964272150",
+      "title": "Large / Green",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964304918",
+      "title": "Large / Olive",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964337686",
+      "title": "Large / Ocean",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964370454",
+      "title": "Large / Purple",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964403222",
+      "title": "Large / Red",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "20.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983593947158",
+  "title": "Light Puffer",
+  "handle": "light-puffer",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936583190",
+      "title": "Small / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936550422",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936615958",
+      "title": "Small / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936648726",
+      "title": "Small / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936681494",
+      "title": "Small / Red",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964960278",
+      "title": "Medium / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696964993046",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965025814",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965058582",
+      "title": "Medium / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965091350",
+      "title": "Medium / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965124118",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965156886",
+      "title": "Large / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965189654",
+      "title": "Large / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965222422",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696965255190",
+      "title": "Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983594176534",
+  "title": "Puffer",
+  "handle": "puffer",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936943638",
+      "title": "Small / Green",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936910870",
+      "title": "Small / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696936976406",
+      "title": "Small / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937009174",
+      "title": "Small / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937041942",
+      "title": "Small / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967057430",
+      "title": "Medium / Green",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967090198",
+      "title": "Medium / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967122966",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967155734",
+      "title": "Medium / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967188502",
+      "title": "Medium / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967221270",
+      "title": "Large / Green",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967254038",
+      "title": "Large / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967286806",
+      "title": "Large / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967319574",
+      "title": "Large / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967352342",
+      "title": "Large / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "80.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983594340374",
+  "title": "Puffer Jacket",
+  "handle": "puffer-jacket",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937238550",
+      "title": "Small / Green",
+      "quantityAvailable": 98,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937205782",
+      "title": "Small / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937271318",
+      "title": "Small / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937304086",
+      "title": "Small / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937336854",
+      "title": "Small / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967647254",
+      "title": "Medium / Green",
+      "quantityAvailable": 99,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967680022",
+      "title": "Medium / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967712790",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967745558",
+      "title": "Medium / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967778326",
+      "title": "Medium / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967811094",
+      "title": "Large / Green",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967843862",
+      "title": "Large / Olive",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967876630",
+      "title": "Large / Ocean",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967909398",
+      "title": "Large / Purple",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967942166",
+      "title": "Large / Red",
+      "quantityAvailable": 100,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983594471446",
+  "title": "Shorts",
+  "handle": "shorts",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "bottoms",
+   "men"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Bottoms"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937500694",
+      "title": "Small / Green",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937467926",
+      "title": "Small / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937533462",
+      "title": "Small / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937566230",
+      "title": "Small / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696937598998",
+      "title": "Small / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696967974934",
+      "title": "Medium / Green",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968007702",
+      "title": "Medium / Olive",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968040470",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968073238",
+      "title": "Medium / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968106006",
+      "title": "Medium / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968138774",
+      "title": "Large / Green",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968171542",
+      "title": "Large / Olive",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968204310",
+      "title": "Large / Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968237078",
+      "title": "Large / Purple",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696968269846",
+      "title": "Large / Red",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "45.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983594962966",
+  "title": "Workout Shirt",
+  "handle": "workout-shirt",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "tops",
+   "women"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Women"
+     }
+    },
+    {
+     "node": {
+      "title": "Tops"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696939499542",
+      "title": "Small / Green",
+      "quantityAvailable": 999,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696939466774",
+      "title": "Small / Olive",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696939532310",
+      "title": "Small / Ocean",
+      "quantityAvailable": 999,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696939565078",
+      "title": "Small / Purple",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696939597846",
+      "title": "Small / Red",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Small"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970137622",
+      "title": "Medium / Green",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970170390",
+      "title": "Medium / Olive",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970203158",
+      "title": "Medium / Ocean",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970235926",
+      "title": "Medium / Purple",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970268694",
+      "title": "Medium / Red",
+      "quantityAvailable": 999,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Medium"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970301462",
+      "title": "Large / Green",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970334230",
+      "title": "Large / Olive",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970366998",
+      "title": "Large / Ocean",
+      "quantityAvailable": 999,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970399766",
+      "title": "Large / Purple",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696970432534",
+      "title": "Large / Red",
+      "quantityAvailable": 1000,
+      "price": {
+       "amount": "10.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "Large"
+       },
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595290646",
+  "title": "Black Sunnies",
+  "handle": "black-sunnies",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696940613654",
+      "title": "Default Title",
+      "quantityAvailable": 45,
+      "price": {
+       "amount": "50.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Title",
+        "value": "Default Title"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595323414",
+  "title": "White Leather Sneakers",
+  "handle": "white-leather-sneakers",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "men",
+   "shoes"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696969777174",
+      "title": "4",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696969809942",
+      "title": "5",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696969842710",
+      "title": "6",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696969875478",
+      "title": "7",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696969908246",
+      "title": "8",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595356182",
+  "title": "Gray Leather Sneakers",
+  "handle": "gray-leather-sneakers",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "men",
+   "shoes"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961355798",
+      "title": "4",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961388566",
+      "title": "5",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961421334",
+      "title": "6",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961454102",
+      "title": "7",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961486870",
+      "title": "8",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961519638",
+      "title": "9",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961552406",
+      "title": "10",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961585174",
+      "title": "11",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961617942",
+      "title": "12",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "1000.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595388950",
+  "title": "Gray Runners",
+  "handle": "gray-runners",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "men",
+   "shoes"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Shoes"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961749014",
+      "title": "4",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "4"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961781782",
+      "title": "5",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "5"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961814550",
+      "title": "6",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961847318",
+      "title": "7",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961880086",
+      "title": "8",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961912854",
+      "title": "9",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961945622",
+      "title": "10",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696961978390",
+      "title": "11",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "11"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696962011158",
+      "title": "12",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "12"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696962043926",
+      "title": "13",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "13"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696962076694",
+      "title": "14",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "30.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "14"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595454486",
+  "title": "Clear Sunnies",
+  "handle": "clear-sunnies",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "unisex"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Unisex"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696940941334",
+      "title": "Default Title",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "25.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Title",
+        "value": "Default Title"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983595487254",
+  "title": "High Top Sneakers",
+  "handle": "high-top-sneakers",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [
+   "accessories",
+   "men",
+   "shoes"
+  ],
+  "collections": {
+   "edges": [
+    {
+     "node": {
+      "title": "Men"
+     }
+    },
+    {
+     "node": {
+      "title": "Accessories"
+     }
+    },
+    {
+     "node": {
+      "title": "Featured"
+     }
+    }
+   ]
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963387414",
+      "title": "6",
+      "quantityAvailable": 30,
+      "price": {
+       "amount": "180.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "6"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963420182",
+      "title": "7",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "180.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "7"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963452950",
+      "title": "8",
+      "quantityAvailable": 46,
+      "price": {
+       "amount": "180.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "8"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963485718",
+      "title": "9",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "180.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "9"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696963518486",
+      "title": "10",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "180.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Size",
+        "value": "10"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/7983602040854",
+  "title": "Beanie",
+  "handle": "beanie",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [],
+  "collections": {
+   "edges": []
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696949592086",
+      "title": "Green",
+      "quantityAvailable": 37,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696949624854",
+      "title": "Olive",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Olive"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696949657622",
+      "title": "Ocean",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696949690390",
+      "title": "Purple",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43696949723158",
+      "title": "Red",
+      "quantityAvailable": 47,
+      "price": {
+       "amount": "100.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": "gid://shopify/Product/10489561382934",
+  "title": "Hoodie",
+  "handle": "hoodie",
+  "productType": "",
+  "vendor": "Mock.shop",
+  "tags": [],
+  "collections": {
+   "edges": []
+  },
+  "variants": {
+   "edges": [
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846621206",
+      "title": "Small",
+      "quantityAvailable": 48,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847145494",
+      "title": "Small",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847276566",
+      "title": "Small",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847407638",
+      "title": "Small",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847538710",
+      "title": "Small",
+      "quantityAvailable": 42,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Small"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846653974",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847178262",
+      "title": "Medium",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847309334",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847440406",
+      "title": "Medium",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847571478",
+      "title": "Medium",
+      "quantityAvailable": 49,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Medium"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846686742",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847211030",
+      "title": "Large",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847342102",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847473174",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847604246",
+      "title": "Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695846719510",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Red"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847243798",
+      "title": "X-Large",
+      "quantityAvailable": 0,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Clay"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847374870",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Ocean"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847505942",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Purple"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "id": "gid://shopify/ProductVariant/43695847637014",
+      "title": "X-Large",
+      "quantityAvailable": 50,
+      "price": {
+       "amount": "90.0",
+       "currencyCode": "CAD"
+      },
+      "selectedOptions": [
+       {
+        "name": "Color",
+        "value": "Green"
+       },
+       {
+        "name": "Size",
+        "value": "X-Large"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ }
+]

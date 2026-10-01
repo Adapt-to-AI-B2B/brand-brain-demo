@@ -1,0 +1,336 @@
+Artigo;Descricao;Tamanho;Cor;Familia
+SLI-BLK-S;Slides - Small;Small;Black;Shoes
+SLI-BLK-M;Slides - Medium;Medium;Black;Shoes
+SLI-BLK-L;Slides - Large;Large;Black;Shoes
+SWE-GRN-S;Sweatpants - Small / Green;Small;Green;Bottoms
+SWE-OLV-S;Sweatpants - Small / Olive;Small;Olive;Bottoms
+SWE-OCN-S;Sweatpants - Small / Ocean;Small;Ocean;Bottoms
+SWE-PRP-S;Sweatpants - Small / Purple;Small;Purple;Bottoms
+SWE-RED-S;Sweatpants - Small / Red;Small;Red;Bottoms
+SWE-GRN-M;Sweatpants - Medium / Green;Medium;Green;Bottoms
+SWE-OLV-M;Sweatpants - Medium / Olive;Medium;Olive;Bottoms
+SWE-OCN-M;Sweatpants - Medium / Ocean;Medium;Ocean;Bottoms
+SWE-PRP-M;Sweatpants - Medium / Purple;Medium;Purple;Bottoms
+SWE-RED-M;Sweatpants - Medium / Red;Medium;Red;Bottoms
+SWE-GRN-L;Sweatpants - Large / Green;Large;Green;Bottoms
+SWE-OLV-L;Sweatpants - Large / Olive;Large;Olive;Bottoms
+SWE-OCN-L;Sweatpants - Large / Ocean;Large;Ocean;Bottoms
+SWE-PRP-L;Sweatpants - Large / Purple;Large;Purple;Bottoms
+SWE-RED-L;Sweatpants - Large / Red;Large;Red;Bottoms
+MTS-GRN-S;Men's T-shirt - Small / Green;Small;Green;Tops
+MTS-OLV-S;Men's T-shirt - Small / Olive;Small;Olive;Tops
+MTS-OCN-S;Men's T-shirt - Small / Ocean;Small;Ocean;Tops
+MTS-PRP-S;Men's T-shirt - Small / Purple;Small;Purple;Tops
+MTS-RED-S;Men's T-shirt - Small / Red;Small;Red;Tops
+MTS-GRN-M;Men's T-shirt - Medium / Green;Medium;Green;Tops
+MTS-OLV-M;Men's T-shirt - Medium / Olive;Medium;Olive;Tops
+MTS-OCN-M;Men's T-shirt - Medium / Ocean;Medium;Ocean;Tops
+MTS-PRP-M;Men's T-shirt - Medium / Purple;Medium;Purple;Tops
+MTS-RED-M;Men's T-shirt - Medium / Red;Medium;Red;Tops
+MTS-GRN-L;Men's T-shirt - Large / Green;Large;Green;Tops
+MTS-OLV-L;Men's T-shirt - Large / Olive;Large;Olive;Tops
+MTS-OCN-L;Men's T-shirt - Large / Ocean;Large;Ocean;Tops
+MTS-PRP-L;Men's T-shirt - Large / Purple;Large;Purple;Tops
+MTS-RED-L;Men's T-shirt - Large / Red;Large;Red;Tops
+MTS-GRN-XL;Men's T-shirt - X-Large / Green;X-Large;Green;Tops
+MTS-OLV-XL;Men's T-shirt - X-Large / Olive;X-Large;Olive;Tops
+MTS-OCN-XL;Men's T-shirt - X-Large / Ocean;X-Large;Ocean;Tops
+MTS-PRP-XL;Men's T-shirt - X-Large / Purple;X-Large;Purple;Tops
+MTS-RED-XL;Men's T-shirt - X-Large / Red;X-Large;Red;Tops
+HOL-GRN-S;Hoodie - Small / Green;Small;Green;Tops
+HOL-OLV-S;Hoodie - Small / Olive;Small;Olive;Tops
+HOL-OCN-S;Hoodie - Small / Ocean;Small;Ocean;Tops
+HOL-PRP-S;Hoodie - Small / Purple;Small;Purple;Tops
+HOL-RED-S;Hoodie - Small / Red;Small;Red;Tops
+HOL-GRN-M;Hoodie - Medium / Green;Medium;Green;Tops
+HOL-OLV-M;Hoodie - Medium / Olive;Medium;Olive;Tops
+HOL-OCN-M;Hoodie - Medium / Ocean;Medium;Ocean;Tops
+HOL-PRP-M;Hoodie - Medium / Purple;Medium;Purple;Tops
+HOL-RED-M;Hoodie - Medium / Red;Medium;Red;Tops
+HOL-GRN-L;Hoodie - Large / Green;Large;Green;Tops
+HOL-OLV-L;Hoodie - Large / Olive;Large;Olive;Tops
+HOL-OCN-L;Hoodie - Large / Ocean;Large;Ocean;Tops
+HOL-PRP-L;Hoodie - Large / Purple;Large;Purple;Tops
+HOL-RED-L;Hoodie - Large / Red;Large;Red;Tops
+HOL-GRN-XL;Hoodie - X-Large / Green;X-Large;Green;Tops
+HOL-OLV-XL;Hoodie - X-Large / Olive;X-Large;Olive;Tops
+HOL-OCN-XL;Hoodie - X-Large / Ocean;X-Large;Ocean;Tops
+HOL-PRP-XL;Hoodie - X-Large / Purple;X-Large;Purple;Tops
+HOL-RED-XL;Hoodie - X-Large / Red;X-Large;Red;Tops
+SCH-RED-S;Soft Cotton Hoodie in Jam - Red / Small;Small;Red;Tops
+SCH-RED-M;Soft Cotton Hoodie in Jam - Red / Medium;Medium;Red;Tops
+SCH-RED-L;Soft Cotton Hoodie in Jam - Red / Large;Large;Red;Tops
+SCH-RED-XL;Soft Cotton Hoodie in Jam - Red / X-Large;X-Large;Red;Tops
+SC2-CLY-S;Soft Cotton Hoodie in Clay - Clay / Small;Small;Clay;Tops
+SC2-CLY-M;Soft Cotton Hoodie in Clay - Clay / Medium;Medium;Clay;Tops
+SC2-CLY-L;Soft Cotton Hoodie in Clay - Clay / Large;Large;Clay;Tops
+SC2-CLY-XL;Soft Cotton Hoodie in Clay - Clay / X-Large;X-Large;Clay;Tops
+SC3-OCN-S;Soft Cotton Hoodie in Ocean - Ocean / Small;Small;Ocean;Tops
+SC3-OCN-M;Soft Cotton Hoodie in Ocean - Ocean / Medium;Medium;Ocean;Tops
+SC3-OCN-L;Soft Cotton Hoodie in Ocean - Ocean / Large;Large;Ocean;Tops
+SC3-OCN-XL;Soft Cotton Hoodie in Ocean - Ocean / X-Large;X-Large;Ocean;Tops
+SC4-PRP-S;Soft Cotton Hoodie in Violet - Purple / Small;Small;Purple;Tops
+SC4-PRP-M;Soft Cotton Hoodie in Violet - Purple / Medium;Medium;Purple;Tops
+SC4-PRP-L;Soft Cotton Hoodie in Violet - Purple / Large;Large;Purple;Tops
+SC4-PRP-XL;Soft Cotton Hoodie in Violet - Purple / X-Large;X-Large;Purple;Tops
+SC5-GRN-S;Soft Cotton Hoodie in Green - Green / Small;Small;Green;Tops
+SC5-GRN-M;Soft Cotton Hoodie in Green - Green / Medium;Medium;Green;Tops
+SC5-GRN-L;Soft Cotton Hoodie in Green - Green / Large;Large;Green;Tops
+SC5-GRN-XL;Soft Cotton Hoodie in Green - Green / X-Large;X-Large;Green;Tops
+MCR-GRN-S;Men's Crewneck - Small / Green;Small;Green;Tops
+MCR-OLV-S;Men's Crewneck - Small / Olive;Small;Olive;Tops
+MCR-OCN-S;Men's Crewneck - Small / Ocean;Small;Ocean;Tops
+MCR-PRP-S;Men's Crewneck - Small / Purple;Small;Purple;Tops
+MCR-RED-S;Men's Crewneck - Small / Red;Small;Red;Tops
+MCR-GRN-M;Men's Crewneck - Medium / Green;Medium;Green;Tops
+MCR-OLV-M;Men's Crewneck - Medium / Olive;Medium;Olive;Tops
+MCR-OCN-M;Men's Crewneck - Medium / Ocean;Medium;Ocean;Tops
+MCR-PRP-M;Men's Crewneck - Medium / Purple;Medium;Purple;Tops
+MCR-RED-M;Men's Crewneck - Medium / Red;Medium;Red;Tops
+MCR-GRN-L;Men's Crewneck - Large / Green;Large;Green;Tops
+MCR-OLV-L;Men's Crewneck - Large / Olive;Large;Olive;Tops
+MCR-OCN-L;Men's Crewneck - Large / Ocean;Large;Ocean;Tops
+MCR-PRP-L;Men's Crewneck - Large / Purple;Large;Purple;Tops
+MCR-RED-L;Men's Crewneck - Large / Red;Large;Red;Tops
+WCR-GRN-S;Women's Crewneck - Small / Green;Small;Green;Tops
+WCR-OLV-S;Women's Crewneck - Small / Olive;Small;Olive;Tops
+WCR-OCN-S;Women's Crewneck - Small / Ocean;Small;Ocean;Tops
+WCR-PRP-S;Women's Crewneck - Small / Purple;Small;Purple;Tops
+WCR-RED-S;Women's Crewneck - Small / Red;Small;Red;Tops
+WCR-GRN-M;Women's Crewneck - Medium / Green;Medium;Green;Tops
+WCR-OLV-M;Women's Crewneck - Medium / Olive;Medium;Olive;Tops
+WCR-OCN-M;Women's Crewneck - Medium / Ocean;Medium;Ocean;Tops
+WCR-PRP-M;Women's Crewneck - Medium / Purple;Medium;Purple;Tops
+WCR-RED-M;Women's Crewneck - Medium / Red;Medium;Red;Tops
+WCR-GRN-L;Women's Crewneck - Large / Green;Large;Green;Tops
+WCR-OLV-L;Women's Crewneck - Large / Olive;Large;Olive;Tops
+WCR-OCN-L;Women's Crewneck - Large / Ocean;Large;Ocean;Tops
+WCR-PRP-L;Women's Crewneck - Large / Purple;Large;Purple;Tops
+WCR-RED-L;Women's Crewneck - Large / Red;Large;Red;Tops
+WTS-GRN-S;Women's T-shirt - Small / Green;Small;Green;Tops
+WTS-OLV-S;Women's T-shirt - Small / Olive;Small;Olive;Tops
+WTS-OCN-S;Women's T-shirt - Small / Ocean;Small;Ocean;Tops
+WTS-PRP-S;Women's T-shirt - Small / Purple;Small;Purple;Tops
+WTS-RED-S;Women's T-shirt - Small / Red;Small;Red;Tops
+WTS-GRN-M;Women's T-shirt - Medium / Green;Medium;Green;Tops
+WTS-OLV-M;Women's T-shirt - Medium / Olive;Medium;Olive;Tops
+WTS-OCN-M;Women's T-shirt - Medium / Ocean;Medium;Ocean;Tops
+WTS-PRP-M;Women's T-shirt - Medium / Purple;Medium;Purple;Tops
+WTS-RED-M;Women's T-shirt - Medium / Red;Medium;Red;Tops
+WTS-GRN-L;Women's T-shirt - Large / Green;Large;Green;Tops
+WTS-OLV-L;Women's T-shirt - Large / Olive;Large;Olive;Tops
+WTS-OCN-L;Women's T-shirt - Large / Ocean;Large;Ocean;Tops
+WTS-PRP-L;Women's T-shirt - Large / Purple;Large;Purple;Tops
+WTS-RED-L;Women's T-shirt - Large / Red;Large;Red;Tops
+WTS-GRN-XL;Women's T-shirt - X-Large / Green;X-Large;Green;Tops
+WTS-OLV-XL;Women's T-shirt - X-Large / Olive;X-Large;Olive;Tops
+WTS-OCN-XL;Women's T-shirt - X-Large / Ocean;X-Large;Ocean;Tops
+WTS-PRP-XL;Women's T-shirt - X-Large / Purple;X-Large;Purple;Tops
+WTS-RED-XL;Women's T-shirt - X-Large / Red;X-Large;Red;Tops
+CSN-GRN-4;Canvas Sneakers - 4 / Green;4;Green;Shoes
+CSN-OLV-4;Canvas Sneakers - 4 / Olive;4;Olive;Shoes
+CSN-OCN-4;Canvas Sneakers - 4 / Ocean;4;Ocean;Shoes
+CSN-PRP-4;Canvas Sneakers - 4 / Purple;4;Purple;Shoes
+CSN-RED-4;Canvas Sneakers - 4 / Red;4;Red;Shoes
+CSN-GRN-5;Canvas Sneakers - 5 / Green;5;Green;Shoes
+CSN-OLV-5;Canvas Sneakers - 5 / Olive;5;Olive;Shoes
+CSN-OCN-5;Canvas Sneakers - 5 / Ocean;5;Ocean;Shoes
+CSN-PRP-5;Canvas Sneakers - 5 / Purple;5;Purple;Shoes
+CSN-RED-5;Canvas Sneakers - 5 / Red;5;Red;Shoes
+CSN-GRN-6;Canvas Sneakers - 6 / Green;6;Green;Shoes
+CSN-OLV-6;Canvas Sneakers - 6 / Olive;6;Olive;Shoes
+CSN-OCN-6;Canvas Sneakers - 6 / Ocean;6;Ocean;Shoes
+CSN-PRP-6;Canvas Sneakers - 6 / Purple;6;Purple;Shoes
+CSN-RED-6;Canvas Sneakers - 6 / Red;6;Red;Shoes
+CSN-GRN-7;Canvas Sneakers - 7 / Green;7;Green;Shoes
+CSN-OLV-7;Canvas Sneakers - 7 / Olive;7;Olive;Shoes
+CSN-OCN-7;Canvas Sneakers - 7 / Ocean;7;Ocean;Shoes
+CSN-PRP-7;Canvas Sneakers - 7 / Purple;7;Purple;Shoes
+CSN-RED-7;Canvas Sneakers - 7 / Red;7;Red;Shoes
+CSN-GRN-8;Canvas Sneakers - 8 / Green;8;Green;Shoes
+CSN-OLV-8;Canvas Sneakers - 8 / Olive;8;Olive;Shoes
+CSN-OCN-8;Canvas Sneakers - 8 / Ocean;8;Ocean;Shoes
+CSN-PRP-8;Canvas Sneakers - 8 / Purple;8;Purple;Shoes
+CSN-RED-8;Canvas Sneakers - 8 / Red;8;Red;Shoes
+CSN-GRN-9;Canvas Sneakers - 9 / Green;9;Green;Shoes
+CSN-OLV-9;Canvas Sneakers - 9 / Olive;9;Olive;Shoes
+CSN-OCN-9;Canvas Sneakers - 9 / Ocean;9;Ocean;Shoes
+CSN-PRP-9;Canvas Sneakers - 9 / Purple;9;Purple;Shoes
+CSN-RED-9;Canvas Sneakers - 9 / Red;9;Red;Shoes
+CSN-GRN-10;Canvas Sneakers - 10 / Green;10;Green;Shoes
+CSN-OLV-10;Canvas Sneakers - 10 / Olive;10;Olive;Shoes
+CSN-OCN-10;Canvas Sneakers - 10 / Ocean;10;Ocean;Shoes
+CSN-PRP-10;Canvas Sneakers - 10 / Purple;10;Purple;Shoes
+CSN-RED-10;Canvas Sneakers - 10 / Red;10;Red;Shoes
+CSN-GRN-11;Canvas Sneakers - 11 / Green;11;Green;Shoes
+CSN-OLV-11;Canvas Sneakers - 11 / Olive;11;Olive;Shoes
+CSN-OCN-11;Canvas Sneakers - 11 / Ocean;11;Ocean;Shoes
+CSN-PRP-11;Canvas Sneakers - 11 / Purple;11;Purple;Shoes
+CSN-RED-11;Canvas Sneakers - 11 / Red;11;Red;Shoes
+CSN-GRN-12;Canvas Sneakers - 12 / Green;12;Green;Shoes
+CSN-OLV-12;Canvas Sneakers - 12 / Olive;12;Olive;Shoes
+CSN-OCN-12;Canvas Sneakers - 12 / Ocean;12;Ocean;Shoes
+CSN-PRP-12;Canvas Sneakers - 12 / Purple;12;Purple;Shoes
+CSN-RED-12;Canvas Sneakers - 12 / Red;12;Red;Shoes
+FRO-GRN-OS;Frontpack - Green;OS;Green;Accessories
+FRO-OLV-OS;Frontpack - Olive;OS;Olive;Accessories
+FRO-OCN-OS;Frontpack - Ocean;OS;Ocean;Accessories
+FRO-PRP-OS;Frontpack - Purple;OS;Purple;Accessories
+FRO-RED-OS;Frontpack - Red;OS;Red;Accessories
+HZI-GRN-S;Half Zip - Small / Green;Small;Green;Tops
+HZI-OLV-S;Half Zip - Small / Olive;Small;Olive;Tops
+HZI-OCN-S;Half Zip - Small / Ocean;Small;Ocean;Tops
+HZI-PRP-S;Half Zip - Small / Purple;Small;Purple;Tops
+HZI-RED-S;Half Zip - Small / Red;Small;Red;Tops
+HZI-GRN-L;Half Zip - Large / Green;Large;Green;Tops
+HZI-OLV-L;Half Zip - Large / Olive;Large;Olive;Tops
+HZI-OCN-L;Half Zip - Large / Ocean;Large;Ocean;Tops
+HZI-PRP-L;Half Zip - Large / Purple;Large;Purple;Tops
+HZI-RED-L;Half Zip - Large / Red;Large;Red;Tops
+LEG-GRN-S;Leggings - Small / Green;Small;Green;Bottoms
+LEG-OLV-S;Leggings - Small / Olive;Small;Olive;Bottoms
+LEG-OCN-S;Leggings - Small / Ocean;Small;Ocean;Bottoms
+LEG-PRP-S;Leggings - Small / Purple;Small;Purple;Bottoms
+LEG-RED-S;Leggings - Small / Red;Small;Red;Bottoms
+LEG-GRN-M;Leggings - Medium / Green;Medium;Green;Bottoms
+LEG-OLV-M;Leggings - Medium / Olive;Medium;Olive;Bottoms
+LEG-OCN-M;Leggings - Medium / Ocean;Medium;Ocean;Bottoms
+LEG-PRP-M;Leggings - Medium / Purple;Medium;Purple;Bottoms
+LEG-RED-M;Leggings - Medium / Red;Medium;Red;Bottoms
+LEG-GRN-L;Leggings - Large / Green;Large;Green;Bottoms
+LEG-OLV-L;Leggings - Large / Olive;Large;Olive;Bottoms
+LEG-OCN-L;Leggings - Large / Ocean;Large;Ocean;Bottoms
+LEG-PRP-L;Leggings - Large / Purple;Large;Purple;Bottoms
+LEG-RED-L;Leggings - Large / Red;Large;Red;Bottoms
+LPU-GRN-S;Light Puffer - Small / Green;Small;Green;Tops
+LPU-OLV-S;Light Puffer - Small / Olive;Small;Olive;Tops
+LPU-OCN-S;Light Puffer - Small / Ocean;Small;Ocean;Tops
+LPU-PRP-S;Light Puffer - Small / Purple;Small;Purple;Tops
+LPU-RED-S;Light Puffer - Small / Red;Small;Red;Tops
+LPU-GRN-M;Light Puffer - Medium / Green;Medium;Green;Tops
+LPU-OLV-M;Light Puffer - Medium / Olive;Medium;Olive;Tops
+LPU-OCN-M;Light Puffer - Medium / Ocean;Medium;Ocean;Tops
+LPU-PRP-M;Light Puffer - Medium / Purple;Medium;Purple;Tops
+LPU-RED-M;Light Puffer - Medium / Red;Medium;Red;Tops
+LPU-GRN-L;Light Puffer - Large / Green;Large;Green;Tops
+LPU-OLV-L;Light Puffer - Large / Olive;Large;Olive;Tops
+LPU-OCN-L;Light Puffer - Large / Ocean;Large;Ocean;Tops
+LPU-PRP-L;Light Puffer - Large / Purple;Large;Purple;Tops
+LPU-RED-L;Light Puffer - Large / Red;Large;Red;Tops
+PUF-GRN-S;Puffer - Small / Green;Small;Green;Tops
+PUF-OLV-S;Puffer - Small / Olive;Small;Olive;Tops
+PUF-OCN-S;Puffer - Small / Ocean;Small;Ocean;Tops
+PUF-PRP-S;Puffer - Small / Purple;Small;Purple;Tops
+PUF-RED-S;Puffer - Small / Red;Small;Red;Tops
+PUF-GRN-M;Puffer - Medium / Green;Medium;Green;Tops
+PUF-OLV-M;Puffer - Medium / Olive;Medium;Olive;Tops
+PUF-OCN-M;Puffer - Medium / Ocean;Medium;Ocean;Tops
+PUF-PRP-M;Puffer - Medium / Purple;Medium;Purple;Tops
+PUF-RED-M;Puffer - Medium / Red;Medium;Red;Tops
+PUF-GRN-L;Puffer - Large / Green;Large;Green;Tops
+PUF-OLV-L;Puffer - Large / Olive;Large;Olive;Tops
+PUF-OCN-L;Puffer - Large / Ocean;Large;Ocean;Tops
+PUF-PRP-L;Puffer - Large / Purple;Large;Purple;Tops
+PUF-RED-L;Puffer - Large / Red;Large;Red;Tops
+PJA-GRN-S;Puffer Jacket - Small / Green;Small;Green;Tops
+PJA-OLV-S;Puffer Jacket - Small / Olive;Small;Olive;Tops
+PJA-OCN-S;Puffer Jacket - Small / Ocean;Small;Ocean;Tops
+PJA-PRP-S;Puffer Jacket - Small / Purple;Small;Purple;Tops
+PJA-RED-S;Puffer Jacket - Small / Red;Small;Red;Tops
+PJA-GRN-M;Puffer Jacket - Medium / Green;Medium;Green;Tops
+PJA-OLV-M;Puffer Jacket - Medium / Olive;Medium;Olive;Tops
+PJA-OCN-M;Puffer Jacket - Medium / Ocean;Medium;Ocean;Tops
+PJA-PRP-M;Puffer Jacket - Medium / Purple;Medium;Purple;Tops
+PJA-RED-M;Puffer Jacket - Medium / Red;Medium;Red;Tops
+PJA-GRN-L;Puffer Jacket - Large / Green;Large;Green;Tops
+PJA-OLV-L;Puffer Jacket - Large / Olive;Large;Olive;Tops
+PJA-OCN-L;Puffer Jacket - Large / Ocean;Large;Ocean;Tops
+PJA-PRP-L;Puffer Jacket - Large / Purple;Large;Purple;Tops
+PJA-RED-L;Puffer Jacket - Large / Red;Large;Red;Tops
+SHO-GRN-S;Shorts - Small / Green;Small;Green;Bottoms
+SHO-OLV-S;Shorts - Small / Olive;Small;Olive;Bottoms
+SHO-OCN-S;Shorts - Small / Ocean;Small;Ocean;Bottoms
+SHO-PRP-S;Shorts - Small / Purple;Small;Purple;Bottoms
+SHO-RED-S;Shorts - Small / Red;Small;Red;Bottoms
+SHO-GRN-M;Shorts - Medium / Green;Medium;Green;Bottoms
+SHO-OLV-M;Shorts - Medium / Olive;Medium;Olive;Bottoms
+SHO-OCN-M;Shorts - Medium / Ocean;Medium;Ocean;Bottoms
+SHO-PRP-M;Shorts - Medium / Purple;Medium;Purple;Bottoms
+SHO-RED-M;Shorts - Medium / Red;Medium;Red;Bottoms
+SHO-GRN-L;Shorts - Large / Green;Large;Green;Bottoms
+SHO-OLV-L;Shorts - Large / Olive;Large;Olive;Bottoms
+SHO-OCN-L;Shorts - Large / Ocean;Large;Ocean;Bottoms
+SHO-PRP-L;Shorts - Large / Purple;Large;Purple;Bottoms
+SHO-RED-L;Shorts - Large / Red;Large;Red;Bottoms
+WSH-GRN-S;Workout Shirt - Small / Green;Small;Green;Tops
+WSH-OLV-S;Workout Shirt - Small / Olive;Small;Olive;Tops
+WSH-OCN-S;Workout Shirt - Small / Ocean;Small;Ocean;Tops
+WSH-PRP-S;Workout Shirt - Small / Purple;Small;Purple;Tops
+WSH-RED-S;Workout Shirt - Small / Red;Small;Red;Tops
+WSH-GRN-M;Workout Shirt - Medium / Green;Medium;Green;Tops
+WSH-OLV-M;Workout Shirt - Medium / Olive;Medium;Olive;Tops
+WSH-OCN-M;Workout Shirt - Medium / Ocean;Medium;Ocean;Tops
+WSH-PRP-M;Workout Shirt - Medium / Purple;Medium;Purple;Tops
+WSH-RED-M;Workout Shirt - Medium / Red;Medium;Red;Tops
+WSH-GRN-L;Workout Shirt - Large / Green;Large;Green;Tops
+WSH-OLV-L;Workout Shirt - Large / Olive;Large;Olive;Tops
+WSH-OCN-L;Workout Shirt - Large / Ocean;Large;Ocean;Tops
+WSH-PRP-L;Workout Shirt - Large / Purple;Large;Purple;Tops
+WSH-RED-L;Workout Shirt - Large / Red;Large;Red;Tops
+BSU-BLK-OS;Black Sunnies - Default Title;OS;Black;Accessories
+WLS-BLK-4;White Leather Sneakers - 4;4;Black;Shoes
+WLS-BLK-5;White Leather Sneakers - 5;5;Black;Shoes
+WLS-BLK-6;White Leather Sneakers - 6;6;Black;Shoes
+WLS-BLK-7;White Leather Sneakers - 7;7;Black;Shoes
+WLS-BLK-8;White Leather Sneakers - 8;8;Black;Shoes
+GLS-BLK-4;Gray Leather Sneakers - 4;4;Black;Shoes
+GLS-BLK-5;Gray Leather Sneakers - 5;5;Black;Shoes
+GLS-BLK-6;Gray Leather Sneakers - 6;6;Black;Shoes
+GLS-BLK-7;Gray Leather Sneakers - 7;7;Black;Shoes
+GLS-BLK-8;Gray Leather Sneakers - 8;8;Black;Shoes
+GLS-BLK-9;Gray Leather Sneakers - 9;9;Black;Shoes
+GLS-BLK-10;Gray Leather Sneakers - 10;10;Black;Shoes
+GLS-BLK-11;Gray Leather Sneakers - 11;11;Black;Shoes
+GLS-BLK-12;Gray Leather Sneakers - 12;12;Black;Shoes
+GRU-BLK-4;Gray Runners - 4;4;Black;Shoes
+GRU-BLK-5;Gray Runners - 5;5;Black;Shoes
+GRU-BLK-6;Gray Runners - 6;6;Black;Shoes
+GRU-BLK-7;Gray Runners - 7;7;Black;Shoes
+GRU-BLK-8;Gray Runners - 8;8;Black;Shoes
+GRU-BLK-9;Gray Runners - 9;9;Black;Shoes
+GRU-BLK-10;Gray Runners - 10;10;Black;Shoes
+GRU-BLK-11;Gray Runners - 11;11;Black;Shoes
+GRU-BLK-12;Gray Runners - 12;12;Black;Shoes
+GRU-BLK-13;Gray Runners - 13;13;Black;Shoes
+GRU-BLK-14;Gray Runners - 14;14;Black;Shoes
+CSU-BLK-OS;Clear Sunnies - Default Title;OS;Black;Accessories
+HTS-BLK-6;High Top Sneakers - 6;6;Black;Shoes
+HTS-BLK-7;High Top Sneakers - 7;7;Black;Shoes
+HTS-BLK-8;High Top Sneakers - 8;8;Black;Shoes
+HTS-BLK-9;High Top Sneakers - 9;9;Black;Shoes
+HTS-BLK-10;High Top Sneakers - 10;10;Black;Shoes
+BEA-GRN-OS;Beanie - Green;OS;Green;Accessories
+BEA-OLV-OS;Beanie - Olive;OS;Olive;Accessories
+BEA-OCN-OS;Beanie - Ocean;OS;Ocean;Accessories
+BEA-PRP-OS;Beanie - Purple;OS;Purple;Accessories
+BEA-RED-OS;Beanie - Red;OS;Red;Accessories
+HOO-RED-S;Hoodie - Red / Small;Small;Red;Tops
+HOO-CLY-S;Hoodie - Clay / Small;Small;Clay;Tops
+HOO-OCN-S;Hoodie - Ocean / Small;Small;Ocean;Tops
+HOO-PRP-S;Hoodie - Purple / Small;Small;Purple;Tops
+HOO-GRN-S;Hoodie - Green / Small;Small;Green;Tops
+HOO-RED-M;Hoodie - Red / Medium;Medium;Red;Tops
+HOO-CLY-M;Hoodie - Clay / Medium;Medium;Clay;Tops
+HOO-OCN-M;Hoodie - Ocean / Medium;Medium;Ocean;Tops
+HOO-PRP-M;Hoodie - Purple / Medium;Medium;Purple;Tops
+HOO-GRN-M;Hoodie - Green / Medium;Medium;Green;Tops
+HOO-RED-L;Hoodie - Red / Large;Large;Red;Tops
+HOO-CLY-L;Hoodie - Clay / Large;Large;Clay;Tops
+HOO-OCN-L;Hoodie - Ocean / Large;Large;Ocean;Tops
+HOO-PRP-L;Hoodie - Purple / Large;Large;Purple;Tops
+HOO-GRN-L;Hoodie - Green / Large;Large;Green;Tops
+HOO-RED-XL;Hoodie - Red / X-Large;X-Large;Red;Tops
+HOO-CLY-XL;Hoodie - Clay / X-Large;X-Large;Clay;Tops
+HOO-OCN-XL;Hoodie - Ocean / X-Large;X-Large;Ocean;Tops
+HOO-PRP-XL;Hoodie - Purple / X-Large;X-Large;Purple;Tops
+HOO-GRN-XL;Hoodie - Green / X-Large;X-Large;Green;Tops

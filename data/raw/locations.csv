@@ -1,0 +1,9 @@
+Location,Name,Type,City,Currency
+LIS1,Lisboa Chiado,store,Lisboa,EUR
+LIS2,Lisboa Principe Real,store,Lisboa,EUR
+OPO1,Porto Baixa,store,Porto,EUR
+OPO2,Porto Foz,store,Porto,EUR
+MAD1,Madrid Salamanca,store,Madrid,EUR
+LON1,London Shoreditch,store,London,GBP
+WH-OPO,Warehouse Porto (stores),warehouse,Porto,EUR
+WH-WEB,Warehouse Online,warehouse,Maia,EUR

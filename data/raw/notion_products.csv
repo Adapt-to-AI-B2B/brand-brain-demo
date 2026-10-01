@@ -1,0 +1,30 @@
+Name,Handle,Style code,Category,Collection,Supplier,Fabric,Unit cost (EUR),Price EUR,Price USD,Price GBP,Launch date,Status
+Slides,slides,SLI,Shoes,SS26,SUP06,EVA,13.65,39,45,34,2026-03-02,Active
+Sweatpants,sweatpants,SWE,Bottoms,AW25,SUP02,Cotton fleece 380g,26.07,79,91,68,2025-09-15,Discontinued
+Men's T-shirt,men-t-shirt,MTS,Tops,Core,SUP07,Organic cotton jersey 180g,10.50,35,40,30,2024-02-01,Active
+Hoodie,hoodie-old,HOL,Tops,AW25,SUP04,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Soft Cotton Hoodie in Jam,soft-cotton-hoodie-in-jam,SCH,Tops,AW25,SUP05,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Soft Cotton Hoodie in Clay,soft-cotton-hoodie-in-clay,SC2,Tops,AW25,SUP06,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Soft Cotton Hoodie in Ocean,soft-cotton-hoodie-in-ocean,SC3,Tops,AW25,SUP07,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Soft Cotton Hoodie in Violet,soft-cotton-hoodie-in-violet,SC4,Tops,AW25,SUP08,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Soft Cotton Hoodie in Green,soft-cotton-hoodie-in-green,SC5,Tops,AW25,SUP09,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
+Men's Crewneck,men-crewneck,MCR,Tops,AW25,SUP10,Brushed cotton fleece,24.75,75,86,64,2025-09-15,Discontinued
+Women's Crewneck,women-crewneck,WCR,Tops,AW25,SUP11,Brushed cotton fleece,24.75,75,86,64,2025-09-15,Discontinued
+Women's T-shirt,women-t-shirt,WTS,Tops,SS26,SUP12,Organic cotton jersey 180g,10.50,35,40,30,2026-03-02,Active
+Canvas Sneakers,canvas-sneakers,CSN,Shoes,Core,SUP06,Canvas / leather,51.60,129,148,111,2024-02-01,Active
+Frontpack,frontpack,FRO,Accessories,Core,SUP14,Recycled nylon,19.25,55,63,47,2024-02-01,Active
+Half Zip,half-zip,HZI,Tops,AW25,SUP15,Merino blend,28.90,85,98,73,2025-09-15,Discontinued
+Leggings,leggings,LEG,Bottoms,Core,SUP16,Recycled nylon stretch,17.70,59,68,51,2024-02-01,Active
+Light Puffer,light-puffer,LPU,Tops,AW26,SUP17,"Recycled nylon, synthetic down",71.82,189,217,163,2026-09-01,Active
+Puffer,puffer,PUF,Tops,AW25,SUP18,"Recycled nylon, synthetic down",71.82,189,217,163,2025-09-15,Discontinued
+Puffer Jacket,puffer-jacket,PJA,Tops,AW25,SUP01,"Recycled nylon, synthetic down",71.82,189,217,163,2025-09-15,Discontinued
+Shorts,shorts,SHO,Bottoms,SS26,SUP02,Cotton twill,14.70,49,56,42,2026-03-02,Active
+Workout Shirt,workout-shirt,WSH,Tops,SS26,SUP03,Recycled polyester,14.40,45,52,39,2026-03-02,Active
+Black Sunnies,black-sunnies,BSU,Accessories,SS26,SUP04,Acetate,20.70,69,79,59,2026-03-02,Active
+White Leather Sneakers,white-leather-sneakers,WLS,Shoes,Core,SUP06,Canvas / leather,51.60,129,148,111,2024-02-01,Active
+Gray Leather Sneakers,gray-leather-sneakers,GLS,Shoes,Core,SUP06,Canvas / leather,51.60,129,148,111,2024-02-01,Active
+Gray Runners,gray-runners,GRU,Shoes,Core,SUP06,"Knit upper, EVA sole",55.60,139,160,120,2024-02-01,Active
+Clear Sunnies,clear-sunnies,CSU,Accessories,SS26,SUP08,Acetate,20.70,69,79,59,2026-03-02,Active
+High Top Sneakers,high-top-sneakers,HTS,Shoes,Core,SUP06,Canvas / leather,51.60,129,148,111,2024-02-01,Active
+Beanie,beanie,BEA,Accessories,AW25,SUP10,Wool blend,8.70,29,33,25,2025-09-15,Discontinued
+Hoodie,hoodie,HOO,Tops,AW25,SUP11,Cotton fleece 380g,29.37,89,102,77,2025-09-15,Discontinued
