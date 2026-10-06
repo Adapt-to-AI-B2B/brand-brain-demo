@@ -44,4 +44,4 @@ if __name__ == "__main__":
     (ROOT / "data" / "raw" / "shopify_stock_live.json").write_text(json.dumps(out, indent=1), encoding="utf-8")
     n = sum(len(p["variants"]["edges"]) for p in products)
     print(f"Pulled {len(products)} products, {n} variants from Shopify at {out['pulled_at']}.\n")
-    load.build()
+    load.run()

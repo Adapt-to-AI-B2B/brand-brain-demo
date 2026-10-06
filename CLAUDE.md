@@ -12,6 +12,8 @@ the query. If a question is ambiguous, ask before answering.
   systems. Rebuild the database instead: `python3 load.py` (Windows: `python load.py`).
 - Read from `data/warehouse.sqlite` with Python's built-in `sqlite3`. No extra packages.
 - "Today" is the latest date in the data.
+- Say how fresh the data is with every answer: the latest date of the tables you used
+  (`store_sales`, `online_orders`, the `stock_sage` snapshot, `shopify_stock.pulled_at`).
 - Use the definitions below exactly, so everyone gets the same answer to the same question.
 
 ## Where the data comes from
