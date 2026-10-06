@@ -1,5 +1,5 @@
 """The scheduled job: every 30 seconds, load any new file in inbox/ into the database,
-then move it to inbox/processed/.
+then move it to inbox/processed/. A file that can't be loaded goes to inbox/rejected/ instead.
 
     python3 watch_inbox.py           check every 30 seconds (Ctrl+C to stop)
     python3 watch_inbox.py --once    check once and exit
@@ -17,6 +17,7 @@ import load
 ROOT = Path(__file__).resolve().parent
 INBOX = ROOT / "inbox"
 PROCESSED = INBOX / "processed"
+REJECTED = INBOX / "rejected"
 
 
 def check():
@@ -27,7 +28,14 @@ def check():
         return
     con = sqlite3.connect(load.DB)
     for path in new:
-        n = load.load_inbox_file(con, path)
+        try:
+            n = load.load_inbox_file(con, path)
+        except (load.LoadError, ValueError, KeyError) as e:  # a bad file: set it aside, load nothing from it
+            con.rollback()
+            REJECTED.mkdir(exist_ok=True)
+            shutil.move(str(path), REJECTED / path.name)
+            print(f"{datetime.now():%H:%M:%S}  NOT LOADED {path.name}, moved to inbox/rejected/: {e}")
+            continue
         con.commit()
         shutil.move(str(path), PROCESSED / path.name)
         print(f"{datetime.now():%H:%M:%S}  loaded {path.name}: {n} rows")
