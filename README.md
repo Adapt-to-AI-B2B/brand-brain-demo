@@ -20,6 +20,7 @@ session.
 | `CLAUDE.md` | What Claude reads first: where each number comes from, and what the words mean |
 | `questions.md` | 25 questions to try in class |
 | `load.py` | Rebuilds the database from the exports |
+| `pg.py` | Instructor only: publishes the database to the shared Postgres copy (Supabase) |
 | `tools/pull_shopify.py` | Pulls live stock from Shopify |
 | `mock_systems/store_day.py` | Pretends to be Sage sending its nightly export |
 | `watch_inbox.py` | The scheduled job that loads new exports |
