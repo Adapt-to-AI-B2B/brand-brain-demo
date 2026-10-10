@@ -10,7 +10,10 @@ the query. If a question is ambiguous, ask before answering.
 ## Rules
 - Never change, rename or delete anything in `data/raw/`. Those are the exports from our
   systems. Rebuild the database instead: `python3 load.py` (Windows: `python load.py`).
-- Read from `data/warehouse.sqlite` with Python's built-in `sqlite3`. No extra packages.
+- Query the **shared database** through the Supabase connector (`execute_sql`). The tables are in
+  the schema `este` (e.g. `este.store_sales`). It is read-only: never try to change it.
+- If the Supabase connector is not available, read the local copy `data/warehouse.sqlite` with
+  Python's built-in `sqlite3` (no extra packages) and say so: same data, as of the last local load.
 - "Today" is the latest date in the data.
 - Say how fresh the data is with every answer: the latest date of the tables you used
   (`store_sales`, `online_orders`, the `stock_sage` snapshot, `shopify_stock.pulled_at`).
@@ -57,5 +60,7 @@ Sage by name when loading.
 ## Feeding the brain
 - New Shopify stock: `python3 tools/pull_shopify.py` (reads https://mock.shop/api, then
   rebuilds the database).
+- The shared database is published by the instructor (`load.py` with a `DATABASE_URL`, see `pg.py`).
+  Participants never need to publish.
 - New Sage exports land in `inbox/`. `python3 watch_inbox.py` loads them every 30 seconds.
 - To simulate Sage's nightly export: `python3 mock_systems/store_day.py`.

@@ -4,3 +4,4 @@ inbox/
 data/raw/shopify_stock_live.json
 .DS_Store
 answers/
+.env

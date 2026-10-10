@@ -38,6 +38,12 @@ def check():
             continue
         con.commit()
         shutil.move(str(path), PROCESSED / path.name)
+        if load.pg.database_url():  # instructor only: the shared copy gets the same rows
+            try:
+                load.pg.append(load.DB, path.name)
+            except Exception as e:
+                print(f"{datetime.now():%H:%M:%S}  loaded locally, but the shared copy was NOT updated ({e}). "
+                      "Run python3 load.py to publish it again.")
         print(f"{datetime.now():%H:%M:%S}  loaded {path.name}: {n} rows")
     con.close()
 

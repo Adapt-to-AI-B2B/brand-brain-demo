@@ -11,6 +11,8 @@ Standard library only. The raw files are never changed.
 import csv, json, os, sqlite3, sys
 from pathlib import Path
 
+import pg
+
 ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "data" / "raw"
 DB = ROOT / "data" / "warehouse.sqlite"
@@ -131,6 +133,12 @@ def build():
     con.close()
     os.replace(TMP, DB)
     print(f"\nDatabase ready: {DB.relative_to(ROOT)}")
+    if pg.database_url():  # instructor only: also publish the shared copy (see pg.py)
+        try:
+            pg.publish(DB)
+        except Exception as e:  # e.g. wrong password, no internet: the local build is still fine
+            sys.exit(f"\nThe local database is ready, but the shared copy was NOT updated ({e}).\n"
+                     "Check DATABASE_URL in .env and the internet connection, then run load.py again.")
 
 
 def fill(con):
